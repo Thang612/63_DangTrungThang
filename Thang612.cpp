@@ -1,2 +1,2 @@
 ﻿Sua file ơ day ne
-Thay doi file cho bai branch 
+Main thay doi file tạo conflict
